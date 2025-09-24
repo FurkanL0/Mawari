@@ -80,7 +80,7 @@ export OWNER_ADDRESS=0xbenidegistircuzdanadresingelsin
 
 - Örnek ; 
 
-<img width="1117" height="86" alt="image" src="https://github.com/user-attachments/assets/cfdfa7ac-6661-4518-a3ce-e27b1600b6f7" />
+<img width="1079" height="81" alt="image" src="https://github.com/user-attachments/assets/cf155243-086b-45ff-8691-085d35b89d24" />
 
 
 ## Çalıştırma ;
