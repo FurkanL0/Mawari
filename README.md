@@ -147,3 +147,11 @@ docker logs -f containerid
 ```bash
 docker logs -f containerid
 ```
+
+
+## Sunucu içerisinden aldığımız Burner Wallet Priv Keyini Yedek Almak İçin ; 
+```bash
+cat ~/mawari/flohive-cache.json
+```
+
+<img width="642" height="115" alt="image" src="https://github.com/user-attachments/assets/23350b24-d929-43ee-9364-870774f3d00a" />
