@@ -66,3 +66,25 @@ docker-compose --version
 sudo groupadd docker
 sudo usermod -aG docker $USER
 ```
+
+## Dosya / Konfigirasyon ; 
+```bash
+export MNTESTNET_IMAGE=us-east4-docker.pkg.dev/mawarinetwork-dev/mwr-net-d-car-uses4-public-docker-registry-e62e/mawari-node:latest
+```
+
+- Burada Cüzdan Adresi Mint Yaptığınız Faucet Aldığınız Adres ile degistirin
+
+```bash
+export OWNER_ADDRESS=0xbenidegistircuzdanadresingelsin
+```
+
+- Örnek ; 
+
+<img width="1117" height="86" alt="image" src="https://github.com/user-attachments/assets/cfdfa7ac-6661-4518-a3ce-e27b1600b6f7" />
+
+
+## Çalıştırma ;
+```bash
+mkdir -p ~/mawari && docker run --pull always -v ~/mawari:/app/cache  -e OWNERS_ALLOWLIST=$OWNER_ADDRESS $MNTESTNET_IMAGE
+```
+
