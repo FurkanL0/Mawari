@@ -85,6 +85,6 @@ export OWNER_ADDRESS=0xbenidegistircuzdanadresingelsin
 
 ## Çalıştırma ;
 ```bash
-mkdir -p ~/mawari && docker run --pull always -v ~/mawari:/app/cache  -e OWNERS_ALLOWLIST=$OWNER_ADDRESS $MNTESTNET_IMAGE
+mkdir -p ~/mawari && docker run -d --pull always -v ~/mawari:/app/cache  -e OWNERS_ALLOWLIST=$OWNER_ADDRESS $MNTESTNET_IMAGE
 ```
 
