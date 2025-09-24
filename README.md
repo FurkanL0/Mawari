@@ -136,3 +136,13 @@ docker logs -f containerid
 - Aktif ; 
 
 <img width="1379" height="828" alt="image" src="https://github.com/user-attachments/assets/7307cbfc-7275-4f15-8930-6b7fd3a1c42d" />
+
+- Loglara Bakmak İsterseniz ; 
+
+<img width="618" height="195" alt="image" src="https://github.com/user-attachments/assets/0cfc6e29-dbec-4cc4-91c1-59060c51d6e7" />
+
+- Son 150 Log Kaydı ; 
+
+```bash
+docker logs -f container id -n 150
+```
