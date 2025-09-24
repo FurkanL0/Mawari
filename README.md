@@ -88,3 +88,28 @@ export OWNER_ADDRESS=0xbenidegistircuzdanadresingelsin
 mkdir -p ~/mawari && docker run -d --pull always -v ~/mawari:/app/cache  -e OWNERS_ALLOWLIST=$OWNER_ADDRESS $MNTESTNET_IMAGE
 ```
 
+- Örnek ; 
+
+<img width="1057" height="182" alt="image" src="https://github.com/user-attachments/assets/c7781b16-b55e-4c15-8548-fea1dc18dba4" />
+
+## Genel Kontrol ;
+
+- ID Alalın ; 
+
+```bash
+docker ps -a
+```
+
+<img width="885" height="71" alt="image" src="https://github.com/user-attachments/assets/0ec0f8bd-b3a5-4ad6-b777-0d8520b8dfdd" />
+
+- Container ID Görünen kısımı resimdeki gibi sizdeki Mawari'nin ID'si ile değiştiriyoruz.
+
+```bash
+docker logs -f containerid -n 150
+```
+
+- Örnek "root@provider:~# docker logs -f ce37cc0c241e -n 150"
+
+
+<img width="1157" height="463" alt="image" src="https://github.com/user-attachments/assets/d241a9a0-6596-482c-a005-5d6de3601dd5" />
+
