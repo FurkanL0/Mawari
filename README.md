@@ -115,6 +115,7 @@ docker logs -f containerid
 
 - CTRL C İle logları durdurup yukarı doğru çıkın gösterdiğim bölüme erişin.
 - Burner Wallet Adresini Kopyalıyoruz. O adresi kullanacağoz.
+- Ayrıca Faucet almıştık cüzdan adresimize BURNER Adresede Kendimiz token yolluyoruz. 2 Tane Token veriliyor 1 Tanesi ona gönderiyoruz.
 - Delege Yok Demesi normal, Delege Yapacağız.
 
 ## Delege / Node Kaitf Etme ; 
@@ -124,5 +125,11 @@ docker logs -f containerid
 <img width="1358" height="821" alt="image" src="https://github.com/user-attachments/assets/c5cd4c86-924b-4c24-b90d-dc13268e5d9e" />
 
 - 3'ünü Seçip Delegate'e basıyoruz.
+- Yukarıda Burner Wallet'i kopyalamıştık onu yapıştırıp Delegate Tuşuna basıyoruz ; 
 
+<img width="1383" height="817" alt="image" src="https://github.com/user-attachments/assets/f13574d3-69cb-4a6e-9dc8-c3ea74a9ac6b" />
+
+- Cüzdan Onayı ; 
+
+<img width="368" height="599" alt="image" src="https://github.com/user-attachments/assets/b3190ad3-21d4-4f41-b267-b015086dd75b" />
 
