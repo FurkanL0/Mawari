@@ -105,11 +105,24 @@ docker ps -a
 - Container ID Görünen kısımı resimdeki gibi sizdeki Mawari'nin ID'si ile değiştiriyoruz.
 
 ```bash
-docker logs -f containerid -n 150
+docker logs -f containerid
 ```
 
-- Örnek "root@provider:~# docker logs -f ce37cc0c241e -n 150"
+- Örnek "root@provider:~# docker logs -f ce37cc0c241e"
 
 
-<img width="1157" height="463" alt="image" src="https://github.com/user-attachments/assets/d241a9a0-6596-482c-a005-5d6de3601dd5" />
+<img width="1165" height="539" alt="image" src="https://github.com/user-attachments/assets/e31b16e6-11aa-49e9-a0ff-baf3fa7fdb7a" />
+
+- CTRL C İle logları durdurup yukarı doğru çıkın gösterdiğim bölüme erişin.
+- Burner Wallet Adresini Kopyalıyoruz. O adresi kullanacağoz.
+- Delege Yok Demesi normal, Delege Yapacağız.
+
+## Delege / Node Kaitf Etme ; 
+
+- Link : https://app.testnet.mawari.net/licenses
+
+<img width="1358" height="821" alt="image" src="https://github.com/user-attachments/assets/c5cd4c86-924b-4c24-b90d-dc13268e5d9e" />
+
+- 3'ünü Seçip Delegate'e basıyoruz.
+
 
