@@ -20,7 +20,7 @@
 
 ## Web İşlemleri
 
-- Yeni Metamask Açtım - Burner Cüzdan Kullandım.
+- Yeni Metamask Açtım - Burner Cüzdan Kullandım. Testnet olduğu için nolur nolmaz.
 - Faucet : https://hub.testnet.mawari.net/
 
 <img width="1023" height="301" alt="image" src="https://github.com/user-attachments/assets/0fbb79c7-5dd7-46ab-84a5-a724c5820c84" />
@@ -133,3 +133,6 @@ docker logs -f containerid
 
 <img width="368" height="599" alt="image" src="https://github.com/user-attachments/assets/b3190ad3-21d4-4f41-b267-b015086dd75b" />
 
+- Aktif ; 
+
+<img width="1379" height="828" alt="image" src="https://github.com/user-attachments/assets/7307cbfc-7275-4f15-8930-6b7fd3a1c42d" />
