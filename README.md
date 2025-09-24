@@ -16,7 +16,7 @@
 | **NetCup**          | [Link](https://www.netcup.com/en/?ref=261820) | Cheap / Paypal |
 
 ## Proje Sosyal Medyası : 
-- Twitter : [https://x.com/multisynq](https://x.com/mawariXR)
+- Twitter : https://x.com/mawariXR
 
 ## Web İşlemleri
 
