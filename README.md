@@ -118,6 +118,9 @@ docker logs -f containerid
 - Ayrıca Faucet almıştık cüzdan adresimize BURNER Adresede Kendimiz token yolluyoruz. 2 Tane Token veriliyor 1 Tanesi ona gönderiyoruz.
 - Delege Yok Demesi normal, Delege Yapacağız.
 
+- Eğer adresi almak zor geliyor bana derseniz buradaki komut ile hem burner wallet priv keyini hemde cüzdan adresini alabilirsiniz ; https://github.com/FurkanL0/Mawari/?tab=readme-ov-file#sunucu-i%C3%A7erisinden-ald%C4%B1%C4%9F%C4%B1m%C4%B1z-burner-wallet-priv-keyini-yedek-almak-i%CC%87%C3%A7in-
+
+
 ## Delege / Node Kaitf Etme ; 
 
 - Link : https://app.testnet.mawari.net/licenses
