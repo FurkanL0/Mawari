@@ -102,7 +102,7 @@ docker ps -a
 
 <img width="885" height="71" alt="image" src="https://github.com/user-attachments/assets/0ec0f8bd-b3a5-4ad6-b777-0d8520b8dfdd" />
 
-- Container ID Görünen kısımı resimdeki gibi sizdeki Mawari'nin ID'si ile değiştiriyoruz.
+- Container ID Görünen kısımı resimdeki gibi sizdeki Mawari'nin Container ID'si ile değiştiriyoruz.
 
 ```bash
 docker logs -f containerid
